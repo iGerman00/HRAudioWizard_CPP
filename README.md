@@ -8,11 +8,11 @@ A high-performance C++ port of HRAudioWizard - an audio enhancement tool that us
 ## Features
 
 - **High-Frequency Compensation**: Synthesizes missing high frequencies using harmonic overtone analysis
-- **Flexible Upsampling**: Choose output sample rates from 1x to 16x the input rate
+- **Flexible Upsampling**: Choose output sample rates from 1x to 16x the input rate  
 ~~- **Real-time Processing**: Fast STFT-based processing using KissFFT~~ To be implemented?
 - **Modern GUI**: Built with Dear ImGui for a responsive, cross-platform interface
 - **Batch Processing**: Process multiple audio files with progress tracking
-- **Drag & Drop**: Simply drag audio files into the window
+- **Drag & Drop**: Simply drag audio files into the window  
 ~~- **Multiple Format Support**: Supports WAV, FLAC, OGG, and other formats via libsndfile~~ - this is probably a lie it always outputs WAV files I think, TODO fix that
 
 ## Screenshots
